@@ -13,7 +13,7 @@ $result = mysqli_query($koneksi, $query);
 <body>
     <h2>Data</h2>
     <a href="create.php">Tambah Data</a>
-    <a href="create.php">Lihat Grafik</a>
+    <a href="chart.php">Lihat Grafik</a>
     <table>
         <tr>
             <th>Nama</th>

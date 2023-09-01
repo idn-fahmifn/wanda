@@ -33,6 +33,7 @@ if (isset($_POST['submit'])) {
         <input type="number" name="umur" required><br>
 
         <input type="submit" name="submit" value="Simpan">
+        <a href="index.php">Batal</a>
     </form>
 </body>
 </html>

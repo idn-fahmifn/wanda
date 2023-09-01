@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Grafik Umur</h1>
+    <a href="index.php">Halaman Index</a>
 
     <!-- untuk chartnya -->
     <canvas id="diagram" width="400" height="200"></canvas>
